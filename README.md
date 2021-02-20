@@ -28,3 +28,21 @@ background = 0,0,0,0
 [lighticon]
 foreground = Red
 background = Black
+
+```
+
+- (The `lighticon` block is used if you are using the light taskbar theme of Windows 10 1903)
+
+![screenshot of main screen](http://i.imgur.com/IISMa4g.jpg)
+
+### Download
+
+Binaries are available on the releases page for this repo on GitHub.
+
+### Attributions
+
+BrightnessTray is released under the GPLv3. See LICENSE.
+
+- Thanks to David Warner's WPF Notification Area Icon sample code, from http://blog.quppa.net/2011/01/03/windows-7-style-notification-area-applications-in-wpf-recap-sample/
+
+- Thanks to @Enichan's Ini.cs from https://github.com/Enichan/Ini/
